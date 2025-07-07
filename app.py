@@ -2,7 +2,6 @@ import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import json
 import requests
-from gigachat import GigaChat
 import requests
 import uuid
 import time
